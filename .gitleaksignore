@@ -1,0 +1,3 @@
+315a1c1f593a7850f88b7891362e02d3e90e7872:src/kubeconfigs/default.test.ts:generic-api-key:99
+56b95ecccca989b4509ff84c2e1c152c890af620:__tests__/sample-secret.yml:generic-api-key:5
+56b95ecccca989b4509ff84c2e1c152c890af620:__tests__/sample-secret.yml:kubernetes-secret-yaml:2
